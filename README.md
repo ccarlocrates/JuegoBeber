@@ -1,4 +1,4 @@
-# 🎲 Party Game App - Juegos Sociales y Dinámicas de Grupo
+# 🎲 Juego de beber con amigos
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
